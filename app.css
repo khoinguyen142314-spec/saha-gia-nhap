@@ -151,5 +151,5 @@ footer .khung{display:flex;flex-wrap:wrap;gap:10px 22px;align-items:center}
   .phan{padding:24px 0}
   #tinh-huong{break-before:page}
   .cuoi{break-before:page}
-  *{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  *{-webkit-print-color-adjust:exact;print-color-adjust:exact;animation:none!important;transition:none!important}
 }
